@@ -1,0 +1,19 @@
+[
+  {
+    "id": "xxx",
+    "description": "test",
+    "tagIds": null,
+    "userId": "xxx",
+    "billable": true,
+    "taskId": null,
+    "projectId": "xxx",
+    "timeInterval": {
+      "start": "2020-11-23T08:30:00Z",
+      "end": "2020-11-23T10:40:08Z",
+      "duration": "PT2H10M8S"
+    },
+    "workspaceId": "xxx",
+    "isLocked": false,
+    "customFieldValues": null
+  }
+]
